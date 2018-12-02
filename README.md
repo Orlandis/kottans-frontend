@@ -1,4 +1,4 @@
 # kottans-frontendо from Mandzia Bohdan Kyiv 
 GitHub очень ценная штука, сохранение новых версий, внесение изменений, решение конфликтов реализовано очень чётко. Надеюсь использование данного ресурса в дальнейшем не вызовет у меня трудностей.
 Данная отметка от  Богдана г.Киев
-https://github.com/Orlandis/kottans-frontend/bobcat.jpg
+https://github.com/Orlandis/kottans-frontend/master/bobcat.jpg
