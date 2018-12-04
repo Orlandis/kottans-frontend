@@ -47,5 +47,8 @@ Flexbox, а так всё, как по мне просто и красиво.
 <img src="https://github.com/Orlandis/kottans-frontend/blob/master/task_html_css_intro/HTML_CSS2.bmp" width="50%">
 #------------------------------------------------------------------------------------<br>
 ## Responsive Web Design
-![Responsive Web Design Fundamentals](https://github.com/Orlandis/kottans-frontend/blob/master/task_responsive_web_design/RWD1.png)
+<pre>
+Размышления, точнее понимание того что медиазапросы и Флексбокс это сила, остались неизменны.
+</pre>
+![Responsive Web Design Fundamentals](https://github.com/Orlandis/kottans-frontend/blob/master/task_responsive_web_design/RWD1.png)<br>
 ![Responsive Web Design Froggy](https://github.com/Orlandis/kottans-frontend/blob/master/task_responsive_web_design/RWD2.png)
