@@ -47,5 +47,5 @@ Flexbox, а так всё, как по мне просто и красиво.
 <img src="https://github.com/Orlandis/kottans-frontend/blob/master/task_html_css_intro/HTML_CSS2.bmp" width="50%">
 #------------------------------------------------------------------------------------<br>
 ## Responsive Web Design
-![GitHub Logo](https://github.com/Orlandis/kottans-frontend/blob/master/task_responsive_web_design/RWD1.png)
-![GitHub Logo](https://github.com/Orlandis/kottans-frontend/blob/master/task_responsive_web_design/RWD2.png)
+![Responsive Web Design Fundamentals](https://github.com/Orlandis/kottans-frontend/blob/master/task_responsive_web_design/RWD1.png)
+![Responsive Web Design Froggy](https://github.com/Orlandis/kottans-frontend/blob/master/task_responsive_web_design/RWD2.png)
