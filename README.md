@@ -36,3 +36,12 @@ GitHub очень ценная штука, сохранение новых ве�
 </pre>
 <img src="https://github.com/Orlandis/kottans-frontend/blob/master/task_git_collaboration/Git1.bmp" width="50%">
 <img src="https://github.com/Orlandis/kottans-frontend/blob/master/task_git_collaboration/Git2.bmp" width="50%">
+#------------------------------------------------------------------------------------<br>
+## Intro to HTML and CSS
+<pre>
+Поскольку думаю что некий багаж знаний по HTML и CSS, трудностей в прохождении не возникало, да и от HTML Academy
+курсы я уже давно прошёл. Если не касаться курсов в CSS мне очень нравится как работает свойство display и технология
+Flexbox, а так всё, как по мне просто и красиво. 
+</pre>
+<img src="https://github.com/Orlandis/kottans-frontend/blob/master/task_html_css_intro/HTML_CSS1.bmp" width="50%">
+<img src="https://github.com/Orlandis/kottans-frontend/blob/master/task_html_css_intro/HTML_CSS2.bmp" width="50%">
