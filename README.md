@@ -30,5 +30,5 @@ GitHub очень ценная штука, сохранение новых ве�
 </pre>
 #------------------------------------------------------------------------------------<br>
 ## Git Collaboration<br>
-<img src="https://github.com/Orlandis/kottans-frontend/blob/master/task_git_collaboration/Git1.bmp" width="35%">
-<img src="https://github.com/Orlandis/kottans-frontend/blob/master/task_git_collaboration/Git2.bmp" width="35%">
+<img src="https://github.com/Orlandis/kottans-frontend/blob/master/task_git_collaboration/Git1.bmp" width="35%" display="inline-block">
+<img src="https://github.com/Orlandis/kottans-frontend/blob/master/task_git_collaboration/Git2.bmp" width="35%" display="inline-block">
