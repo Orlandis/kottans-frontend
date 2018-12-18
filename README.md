@@ -55,5 +55,5 @@ Flexbox, а так всё, как по мне просто и красиво.
 #------------------------------------------------------------------------------------<br>
 ## JS Basics
 <pre>Честно говоря, голову пришлось немного поломать</pre>
-![Intro to JS](https://github.com/Orlandis/kottans-frontend/blob/master/task_js_basics/jsb1.png)<br>
+![Intro to JS](https://github.com/Orlandis/kottans-frontend/blob/master/task_js_basics/jsb1.jpg)<br>
 ![freecodecamp Algorithm Scripting Challenges](https://github.com/Orlandis/kottans-frontend/blob/master/task_js_basics/jsb2.jpg)
