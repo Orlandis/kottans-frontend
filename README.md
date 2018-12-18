@@ -52,3 +52,8 @@ Flexbox, а так всё, как по мне просто и красиво.
 </pre>
 ![Responsive Web Design Fundamentals](https://github.com/Orlandis/kottans-frontend/blob/master/task_responsive_web_design/RWD1.png)<br>
 ![Responsive Web Design Froggy](https://github.com/Orlandis/kottans-frontend/blob/master/task_responsive_web_design/RWD2.png)
+#------------------------------------------------------------------------------------<br>
+## JS Basics
+<pre>Честно говоря, голову пришлось немного поломать</pre>
+![Intro to JS](https://github.com/Orlandis/kottans-frontend/blob/master/task_js_basics/jsb1.png)<br>
+![freecodecamp Algorithm Scripting Challenges](https://github.com/Orlandis/kottans-frontend/blob/master/task_js_basics/jsb2.jpg)
